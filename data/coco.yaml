@@ -8,7 +8,7 @@
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 # D盘速度大于USB盘 C盘最快
-path: C:\Users\admin\datasets\coco # dataset root dir default path: ../datasets/coco 1) E:/datasets/coco 2) C:\Users\admin\datasets\coco
+path: C:\Users\admin\c_datasets\coco # dataset root dir default path: ../datasets/coco 1) E:/datasets/coco 2) C:\Users\admin\datasets\coco
 train: train2017.txt # train images (relative to 'path') 118287 images
 val: val2017.txt # val images (relative to 'path') 5000 images
 test: test-dev2017.txt # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
